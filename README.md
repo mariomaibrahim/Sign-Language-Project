@@ -1,11 +1,10 @@
-أكيد، قمت بدمج كل التفاصيل الجديدة التي قدمتها (مثل البيانات، الصور، الفريق، المشرفين، المتطلبات، إلخ) مع ملف الـ README الاحترافي السابق، وأعدت تنسيقه بالكامل ليكون شاملاً وجذابًا، ومناسب للنشر الأكاديمي أو على GitHub:
+
 
 
 ---
 
 # Sign Language Recognition System using AI & OpenCV
 
-![Preview](https://github.com/marwanmohamed21346/AiTP_project_SIGN_LANGUAGE_DETECTOR_1/assets/138812463/1e716608-0705-4d27-893b-14bffdb42452)
 
 > **Real-time American Sign Language (ASL) recognition using Computer Vision, Mediapipe, and Deep Learning — with voice output.**
 
@@ -37,7 +36,7 @@ Designed to assist in communication for the deaf and mute communities, this proj
   [Kaggle Dataset Link](https://www.kaggle.com/datamunge/sign-language-mnist)  
   Consists of labeled grayscale images (28x28) for alphabet signs (A–Z), excluding J and Z due to dynamic motion requirements.
 
-![ASL Dataset](https://github.com/marwanmohamed21346/AiTP_project_SIGN_LANGUAGE_DETECTOR_1/assets/138812463/db9b73a4-2940-4577-a354-5eb9abbf5dd9)
+![ASL Dataset](https://github.com/mariomaibrahim)
 
 ---
 
@@ -64,7 +63,7 @@ pip install autocomplete
 pip install mediapipe
 pip install torch torchvision
 pip install pyttsx3
-```
+
 Or use this snippet in a requirements.txt:
 
 opencv-python
@@ -74,15 +73,17 @@ mediapipe
 torch
 pyttsx3
 
-
+```
 ---
 
 How to Run
-
+---
 1. Clone the repository:
 
-git clone https://github.com/marwanmohamed21346/AiTP_project_SIGN_LANGUAGE_DETECTOR_1.git
+git clone 
+https://github.com/mariomaibrahim
 cd AiTP_project_SIGN_LANGUAGE_DETECTOR_1
+
 
 
 2. Ensure your Python version is 3.8.10 (for Mediapipe compatibility)
@@ -100,7 +101,7 @@ Controls
 ---
 
 Architecture Overview
-
+---
 Camera Input →
 
 Hand ROI Extraction (auto/manual) →
@@ -114,16 +115,9 @@ Sign Mapping →
 Audio Output (TTS)
 
 
-
 ---
-
-Screenshots
-
-
----
-
 Team Members
-
+---
 Marwan Mohamed
 
 Youssef Ahmed
@@ -139,7 +133,7 @@ Mariam Rizk
 ---
 
 Supervisors
-
+---
 Dr. Osama El Nahas
 
 Dr. Hesham Ali
