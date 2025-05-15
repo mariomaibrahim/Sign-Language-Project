@@ -94,8 +94,13 @@ python main.py
 
 
 
-Controls
+## **Controls**
 
+| Key | Action                    |
+|-----|---------------------------|
+| `s` | Speak recognized sign     |
+| `t` | Track hand manually (ROI) |
+| `q` | Quit the application      |
 
 ---
 
