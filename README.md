@@ -36,7 +36,6 @@ Designed to assist in communication for the deaf and mute communities, this proj
   [Kaggle Dataset Link](https://www.kaggle.com/datamunge/sign-language-mnist)  
   Consists of labeled grayscale images (28x28) for alphabet signs (A–Z), excluding J and Z due to dynamic motion requirements.
 
-![ASL Dataset](https://github.com/mariomaibrahim)
 
 ---
 
